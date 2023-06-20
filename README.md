@@ -29,11 +29,14 @@ Sustainability + AWS
 
 #### GPU Optimization
 [GPU settings](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/optimize_gpu.html)
+
 [GPU monitoring and optimization](https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-gpu.html)
+
 [Deep learning AMI optimization](https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-gpu-opt.html)
 
 #### Sustainable Region
 [Region near renewable energy](https://sustainability.aboutamazon.com/around-the-globe?energyType=true)
+
 [Carbon intensity map](https://app.electricitymaps.com/map)
 
 ### Supporting blogs
