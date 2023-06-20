@@ -45,5 +45,6 @@
 
 [Optimize AI/ML workloads for sustainability: Part 2, model development](https://aws.amazon.com/blogs/architecture/optimize-ai-ml-workloads-for-sustainability-part-2-model-development/)
 
-[Optimize AI/ML workloads for sustainability: Part 3, deployment and monitoring](https://aws.amazon.com/blogs/architecture/optimize-ai-ml-workloads-for-sustainability-part-3-deployment-and-monitoring/
+
+[Optimize AI/ML workloads for sustainability: Part 3, deployment and monitoring](https://aws.amazon.com/blogs/architecture/optimize-ai-ml-workloads-for-sustainability-part-3-deployment-and-monitoring/)
 
